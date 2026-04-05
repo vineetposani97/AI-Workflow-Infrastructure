@@ -1,6 +1,7 @@
 AI Workflow Setup with Git & GitHub
 
 Overview
+
 This project was built as part of my learning journey into Git, GitHub, and AI-assisted development tools.
 The goal was to understand how modern development workflows operate, including version control, tool integration, and reproducibility — all essential for building scalable AI and software systems.
 In this project, I learned how to set up a structured development environment using Git, GitHub, and AI-assisted development tools.
