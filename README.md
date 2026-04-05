@@ -50,7 +50,8 @@ In this project, I learned how to set up a structured development environment us
 
 Screenshots
 
-<img width="1919" height="1021" alt="Screenshot 2026-04-05 121407" src="https://github.com/user-attachments/assets/a1ccd427-3830-417e-8070-e9ff3bf1efd5" />
+<img width="800" height="970" alt="Screenshot 2026-04-05 124042" src="https://github.com/user-attachments/assets/78bdeacb-df0c-4169-9be5-86c229d9de20" />
+<img width="800" height="1022" alt="Screenshot 2026-04-05 123420" src="https://github.com/user-attachments/assets/ede15121-2890-4d86-afdc-2f0acbc36269" />
 
 
 
