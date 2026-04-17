@@ -48,7 +48,7 @@ This project was part of an assignment to practice Git, GitHub, and development 
 
 Screenshots:
 
-<img width="800" height="970" alt="image" src="https://github.com/user-attachments/assets/9b99369c-50c4-402a-aeb6-421ce3efcd22" />
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/9b99369c-50c4-402a-aeb6-421ce3efcd22" />
 
 ---
 
