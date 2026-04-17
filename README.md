@@ -2,7 +2,7 @@ AI Workflow Infrastructure & Version-Controlled Development
 
 Overview:
 
-This project demonstrates the design of a structured, version-controlled development environment for building and iterating workflows. It focuses on ensuring reproducibility, reliabilty, and scalability through Git-based version control and integrated development tooling. The system reflects a practical approach to managing AI workflow development in real-world scenarios.
+This project demonstrates the design of a structured, version-controlled development environment for building and iterating AI workflows. It focuses on ensuring reproducibility, reliabilty, and scalability through Git-based version control and integrated development tooling. The system reflects a practical approach to managing AI workflow development in real-world scenarios.
 
 ---
 
